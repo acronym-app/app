@@ -1,0 +1,12 @@
+{
+  "name": "acronym",
+  "displayName": "acronym",
+  "expo": {
+    "name": "acronym",
+    "slug": "acronym",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
